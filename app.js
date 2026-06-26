@@ -81,6 +81,14 @@ function uniqueValues(key) {
     .sort((a, b) => String(a).localeCompare(String(b)));
 }
 
+function sourceValues() {
+  return [
+    ...new Set(
+      restaurants.flatMap((restaurant) => restaurant.sources || [restaurant.recommendedBy]).filter(Boolean),
+    ),
+  ].sort((a, b) => String(a).localeCompare(String(b)));
+}
+
 function fillSelect(select, values, formatter) {
   select.innerHTML = "";
   [allLabel, ...values].forEach((value) => {
@@ -122,9 +130,8 @@ function popupHtml(restaurant) {
       <span><strong>Type:</strong> ${escapeHtml(restaurant.foodType)}</span>
       <span><strong>Price:</strong> ${priceLabel(restaurant.price)}</span>
       <span><strong>Location:</strong> ${escapeHtml(restaurant.location)}</span>
-      <span><strong>Recommended by:</strong> ${escapeHtml(restaurant.recommendedBy)}</span>
+      <span><strong>Source:</strong> ${escapeHtml(restaurant.recommendedBy)}</span>
       <span><strong>Category:</strong> ${escapeHtml(restaurant.category)}</span>
-      <span><strong>Source:</strong> ${escapeHtml(restaurant.source || "CSV")}</span>
     </div>
     <p class="popup-notes">${escapeHtml(restaurant.notes)}</p>
     <a class="map-link" href="${escapeHtml(restaurant.googleMapsUrl)}" target="_blank" rel="noopener">Open in Google Maps</a>
@@ -179,6 +186,7 @@ function textMatches(restaurant, search) {
     restaurant.location,
     restaurant.category,
     restaurant.recommendedBy,
+    ...(restaurant.sources || []),
     restaurant.notes,
   ]
     .join(" ")
@@ -191,6 +199,13 @@ function selectMatches(value, selected) {
   return selected === allLabel || String(value) === selected;
 }
 
+function sourceMatches(restaurant, selected) {
+  return (
+    selected === allLabel ||
+    (restaurant.sources || [restaurant.recommendedBy]).includes(selected)
+  );
+}
+
 function matchesFilters(restaurant, filters) {
   return (
     textMatches(restaurant, filters.search) &&
@@ -198,7 +213,7 @@ function matchesFilters(restaurant, filters) {
     selectMatches(restaurant.price, filters.price) &&
     selectMatches(restaurant.location, filters.location) &&
     selectMatches(restaurant.category, filters.category) &&
-    selectMatches(restaurant.recommendedBy, filters.recommended)
+    sourceMatches(restaurant, filters.recommended)
   );
 }
 
@@ -331,7 +346,7 @@ function setupFilters() {
   fillSelect(controls.price, uniqueValues("price"), priceLabel);
   fillSelect(controls.location, uniqueValues("location"));
   fillSelect(controls.category, uniqueValues("category"));
-  fillSelect(controls.recommended, uniqueValues("recommendedBy"));
+  fillSelect(controls.recommended, sourceValues());
 
   [
     controls.search,

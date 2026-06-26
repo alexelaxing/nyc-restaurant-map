@@ -37,6 +37,4 @@ No build command or paid hosting is needed.
 
 Coordinates were generated with Nominatim/OpenStreetMap. A small set of restaurants
 that Nominatim could not find by name use address-level lookups or Wikidata
-coordinate fallbacks. Four pasted-list entries are retained in the table without
-pins because the pasted text did not include enough address context to geocode
-them safely: Chai Diner, Odahouse, Skye Bar, and Yakiniku Futago.
+coordinate fallbacks. All retained rows have map pins.
