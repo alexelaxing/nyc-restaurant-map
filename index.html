@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NYC Restaurant Map</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+    />
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">NYC Food Recs</p>
+          <h1>Restaurant Map</h1>
+        </div>
+        <div class="result-count" aria-live="polite">
+          <strong id="shownCount">0</strong>
+          <span>shown</span>
+        </div>
+      </header>
+
+      <section class="map-band" aria-label="Restaurant map and filters">
+        <div class="filter-grid">
+          <label class="filter-control search-control">
+            <span>Search</span>
+            <input
+              id="searchInput"
+              type="search"
+              autocomplete="off"
+              placeholder="Name, food, neighborhood, notes"
+            />
+          </label>
+
+          <label class="filter-control">
+            <span>Type of food</span>
+            <select id="foodFilter"></select>
+          </label>
+
+          <label class="filter-control">
+            <span>Price</span>
+            <select id="priceFilter"></select>
+          </label>
+
+          <label class="filter-control">
+            <span>Location</span>
+            <select id="locationFilter"></select>
+          </label>
+
+          <label class="filter-control">
+            <span>Category</span>
+            <select id="categoryFilter"></select>
+          </label>
+
+          <label class="filter-control">
+            <span>Recommended by</span>
+            <select id="recommendedFilter"></select>
+          </label>
+
+          <button id="resetFilters" class="reset-button" type="button">
+            Reset
+          </button>
+        </div>
+
+        <div class="map-layout">
+          <aside class="map-sidebar" aria-label="Restaurants currently visible on the map">
+            <div class="sidebar-heading">
+              <h2>Places in View (<span id="inViewCount">0</span>)</h2>
+              <p id="pinSummary"></p>
+            </div>
+            <div id="inViewList" class="in-view-list"></div>
+          </aside>
+
+          <div class="map-wrap">
+            <div id="map" aria-label="Map of NYC restaurant recommendations"></div>
+            <div id="legend" class="legend" aria-label="Category colors"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="table-band" aria-label="Searchable restaurant table">
+        <div class="table-heading">
+          <h2>Restaurants</h2>
+          <p id="matchSummary"></p>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Restaurant</th>
+                <th scope="col">Type</th>
+                <th scope="col">Price</th>
+                <th scope="col">Location</th>
+                <th scope="col">Category</th>
+                <th scope="col">Recommended</th>
+                <th scope="col">Notes</th>
+                <th scope="col">Map</th>
+              </tr>
+            </thead>
+            <tbody id="restaurantRows"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <footer class="site-footer">
+        Map tiles by CARTO and OpenStreetMap contributors. Coordinates generated
+        with Nominatim/OpenStreetMap and selected Wikidata fallbacks.
+      </footer>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="restaurants.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
