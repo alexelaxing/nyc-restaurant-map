@@ -377,6 +377,10 @@ tbody tr:focus-visible {
   box-shadow: 0 12px 30px rgba(23, 32, 38, 0.08);
 }
 
+.mobile-card-list {
+  display: none;
+}
+
 table {
   width: 100%;
   min-width: 980px;
@@ -450,6 +454,119 @@ tbody tr:last-child td {
   font-weight: 750;
 }
 
+.mobile-restaurant-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel);
+  box-shadow: 0 8px 22px rgba(23, 32, 38, 0.07);
+  cursor: pointer;
+}
+
+.mobile-restaurant-card:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.24);
+  outline-offset: 2px;
+}
+
+.mobile-card-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px;
+  align-items: start;
+}
+
+.mobile-card-head h3 {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+.mobile-price {
+  color: #2f3c47;
+  font-size: 0.82rem;
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.mobile-meta {
+  margin: 6px 0 0;
+  color: #4f5b66;
+  font-size: 0.86rem;
+  line-height: 1.35;
+}
+
+.mobile-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 10px;
+}
+
+.source-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  max-width: 100%;
+  padding: 0 8px;
+  border-radius: 999px;
+  background: #e5f3f1;
+  color: var(--accent-strong);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.mobile-notes {
+  display: -webkit-box;
+  margin: 10px 0 0;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.42;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.mobile-card-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.mobile-map-button,
+.mobile-google-link {
+  display: inline-grid;
+  min-height: 38px;
+  place-items: center;
+  border: 1px solid #bfcbd4;
+  border-radius: var(--radius);
+  background: #fff;
+  color: #24313b;
+  font-size: 0.84rem;
+  font-weight: 850;
+  text-align: center;
+  text-decoration: none;
+}
+
+.mobile-map-button {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+
+.mobile-map-button:disabled {
+  border-color: var(--line);
+  background: #eef2f4;
+  color: var(--muted);
+  cursor: default;
+}
+
+.mobile-google-link:hover {
+  border-color: var(--accent);
+  color: var(--accent-strong);
+}
+
 .site-footer {
   padding: 18px 2px 4px;
   color: var(--muted);
@@ -519,5 +636,18 @@ tbody tr:last-child td {
   th,
   td {
     padding: 10px 12px;
+  }
+
+  .table-wrap {
+    display: none;
+  }
+
+  .mobile-card-list {
+    display: grid;
+    gap: 10px;
+  }
+
+  .mobile-restaurant-card {
+    padding: 12px;
   }
 }

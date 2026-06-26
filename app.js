@@ -26,6 +26,7 @@ const controls = {
   inViewList: document.querySelector("#inViewList"),
   pinSummary: document.querySelector("#pinSummary"),
   rows: document.querySelector("#restaurantRows"),
+  cards: document.querySelector("#restaurantCards"),
   legend: document.querySelector("#legend"),
 };
 
@@ -244,6 +245,39 @@ function renderTable(filtered) {
   controls.rows.innerHTML = filtered.map(tableRow).join("");
 }
 
+function mobileCard(restaurant) {
+  const color = getColor(restaurant.category);
+  const pinText = hasCoords(restaurant) ? "View on map" : "No pin";
+  return `
+    <article class="mobile-restaurant-card" data-id="${restaurant.id}" tabindex="0">
+      <div class="mobile-card-head">
+        <h3>${escapeHtml(restaurant.name)}</h3>
+        <span class="mobile-price">${priceLabel(restaurant.price)}</span>
+      </div>
+      <p class="mobile-meta">${escapeHtml(restaurant.foodType)} · ${escapeHtml(restaurant.location)}</p>
+      <div class="mobile-card-tags">
+        <span class="category-pill" style="--dot: ${color}">
+          ${escapeHtml(restaurant.category)}
+        </span>
+        <span class="source-pill">${escapeHtml(restaurant.recommendedBy)}</span>
+      </div>
+      <p class="mobile-notes">${escapeHtml(restaurant.notes || "No notes yet.")}</p>
+      <div class="mobile-card-actions">
+        <button class="mobile-map-button" type="button" data-focus-id="${restaurant.id}" ${hasCoords(restaurant) ? "" : "disabled"}>
+          ${pinText}
+        </button>
+        <a class="mobile-google-link" href="${escapeHtml(restaurant.googleMapsUrl)}" target="_blank" rel="noopener">
+          Google Maps
+        </a>
+      </div>
+    </article>
+  `;
+}
+
+function renderCards(filtered) {
+  controls.cards.innerHTML = filtered.map(mobileCard).join("");
+}
+
 function renderMarkers(filtered, shouldFit = false) {
   markerLayer.clearLayers();
   const pinned = filtered.filter(hasCoords);
@@ -286,6 +320,7 @@ function applyFilters({ fit = true } = {}) {
 
   renderMarkers(filtered, fit);
   renderTable(filtered);
+  renderCards(filtered);
   updateSummary(filtered);
 }
 
@@ -385,6 +420,32 @@ function setupTableInteractions() {
     if (row) {
       event.preventDefault();
       focusRestaurant(row.dataset.id);
+    }
+  });
+
+  controls.cards.addEventListener("click", (event) => {
+    const link = event.target.closest("a");
+    if (link) {
+      return;
+    }
+
+    const button = event.target.closest("[data-focus-id]");
+    const card = event.target.closest("[data-id]");
+    const id = button?.dataset.focusId || card?.dataset.id;
+    if (id) {
+      focusRestaurant(id);
+    }
+  });
+
+  controls.cards.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" && event.key !== " ") {
+      return;
+    }
+
+    const card = event.target.closest("[data-id]");
+    if (card) {
+      event.preventDefault();
+      focusRestaurant(card.dataset.id);
     }
   });
 }

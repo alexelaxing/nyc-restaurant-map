@@ -1798,7 +1798,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=19%20W%208th%20St%2C%20New%20York%2C%20NY%2010011",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Seasonal craft cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1820,7 +1820,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1561%202nd%20Ave%2C%20New%20York%2C%20NY%2010028%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Gelato and Italian desserts",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1836,13 +1836,13 @@ window.RESTAURANTS = [
   {
     "id": 83,
     "name": "Anton’s",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "American / Italian-American bistro",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Anton%E2%80%99s%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: West Village bistro",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1864,7 +1864,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=9%20Doyers%20St%2C%20New%20York%2C%20NY%2010013",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Chinatown apothecary-style cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1908,7 +1908,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=699%20Manhattan%20Ave%2C%20Brooklyn%2C%20NY%2011222",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Greenpoint bagels and sandwiches",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1924,13 +1924,13 @@ window.RESTAURANTS = [
   {
     "id": 87,
     "name": "Bar Belli",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cocktail bar / Lower East Side bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Belli%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Lower East Side wine bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1952,7 +1952,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=132%209th%20Ave%2C%20New%20York%2C%20NY%2010011",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Hidden speakeasy cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1974,7 +1974,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35%20E%2076th%20St%2C%20New%20York%2C%20NY%2010021",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Classic Carlyle piano bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -1996,7 +1996,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=207%20Front%20St%2C%20New%20York%2C%20NY%2010038%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Soft serve and sundaes",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2018,7 +2018,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=112%20Hudson%20St%2C%20New%20York%2C%20NY%2010013",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Tribeca cafe and pastries",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2034,13 +2034,13 @@ window.RESTAURANTS = [
   {
     "id": 92,
     "name": "Charlie Bird",
-    "foodType": "American",
+    "foodType": "Italian-American / New American",
     "price": 3,
     "location": "West Village",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5%20King%20St%2C%20New%20York%2C%20NY%2010012%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Pasta, wine, downtown energy",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2056,13 +2056,13 @@ window.RESTAURANTS = [
   {
     "id": 93,
     "name": "Clandestino",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Neighborhood bar / cocktail bar",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clandestino%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Low-key neighborhood bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2078,13 +2078,13 @@ window.RESTAURANTS = [
   {
     "id": 94,
     "name": "Collexico",
-    "foodType": "Mexican",
+    "foodType": "Mexican / Cal-Mex",
     "price": 2,
     "location": "Greenpoint",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=645%20Manhattan%20Ave%2C%20Brooklyn%2C%20NY%2011222",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Casual Cal-Mex tacos",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2106,7 +2106,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=79-81%20MacDougal%20St%2C%20New%20York%2C%20NY%2010012",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Negronis and Italian aperitivo",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2122,13 +2122,13 @@ window.RESTAURANTS = [
   {
     "id": 96,
     "name": "Decibel",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese sake bar",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Decibel%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Underground East Village sake bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2144,13 +2144,13 @@ window.RESTAURANTS = [
   {
     "id": 97,
     "name": "Donburiya",
-    "foodType": "Japanese",
+    "foodType": "Japanese donburi / izakaya",
     "price": 2,
     "location": "Midtown",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=253%20W%2055th%20St%2C%20New%20York%2C%20NY%2010019%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Donburi bowls and izakaya dishes",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2166,13 +2166,13 @@ window.RESTAURANTS = [
   {
     "id": 98,
     "name": "Donut pub",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Donuts / bakery",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Donut%20pub%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Classic NYC doughnuts",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2194,7 +2194,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=136%20Atlantic%20Ave%2C%20Brooklyn%2C%20NY%2011201",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Brooklyn Heights cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2216,7 +2216,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=599%20Johnson%20Ave%2C%20Brooklyn%2C%20NY%2011237",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Bushwick music and nightlife",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2238,7 +2238,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=345%20Smith%20St%2C%20Brooklyn%2C%20NY%2011231%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: New American training kitchen",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2298,13 +2298,13 @@ window.RESTAURANTS = [
   {
     "id": 104,
     "name": "ILILI",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Lebanese / Mediterranean",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ILILI%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Lebanese mezze and kebabs",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2326,7 +2326,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=125%20E%2039th%20St%2C%20New%20York%2C%20NY%2010016%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Kyoto matcha and tea",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2348,7 +2348,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=462%20Amsterdam%20Ave%2C%20New%20York%2C%20NY%2010024%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Ramen and Japanese comfort food",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2370,7 +2370,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46%20Bowery%2C%20New%20York%2C%20NY%2010013%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Soup dumplings",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2408,13 +2408,13 @@ window.RESTAURANTS = [
   {
     "id": 109,
     "name": "Kajitsu",
-    "foodType": "Japanese",
+    "foodType": "Japanese shojin / vegetarian fine dining",
     "price": 4,
     "location": "Midtown",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=125%20E%2039th%20St%2C%20New%20York%2C%20NY%2010016%2C%20United%20States",
     "category": "Fine dining",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Shojin vegetarian tasting menu",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2436,7 +2436,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=118%20Baxter%20St%2C%20New%20York%2C%20NY%2010013%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp + Eva",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Sponge cakes and coffee",
     "source": "Magikarp + Eva",
     "sources": [
       "Magikarp",
@@ -2459,7 +2459,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=45%20John%20St%2C%20New%20York%2C%20NY%2010038%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp + Eva",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Japanese tea and matcha",
     "source": "Magikarp + Eva",
     "sources": [
       "Magikarp",
@@ -2476,13 +2476,13 @@ window.RESTAURANTS = [
   {
     "id": 112,
     "name": "Kikis",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Greek",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kikis%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Lively Greek taverna",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2498,13 +2498,13 @@ window.RESTAURANTS = [
   {
     "id": 113,
     "name": "Kimika",
-    "foodType": "Fusion",
-    "price": 2,
+    "foodType": "Japanese-Italian fusion",
+    "price": 3,
     "location": "Chinatown",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=40%20Kenmare%20St%2C%20New%20York%2C%20NY%2010012%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Japanese-Italian fusion",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2526,7 +2526,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=135%20Sullivan%20St%2C%20New%20York%2C%20NY%2010012",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Sushi and omakase",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2548,7 +2548,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=186%20Grand%20St%2C%20Brooklyn%2C%20NY%2011211%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Asian-inspired desserts",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2564,13 +2564,13 @@ window.RESTAURANTS = [
   {
     "id": 116,
     "name": "Kochi NYC",
-    "foodType": "Korean",
-    "price": 3,
+    "foodType": "Korean tasting menu",
+    "price": 4,
     "location": "Hell's Kitchen",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=652%2010th%20Ave%2C%20New%20York%2C%20NY%2010036%2C%20United%20States",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Korean skewers tasting menu",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2592,7 +2592,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=46%20Eldridge%20St%2C%20New%20York%2C%20NY%2010002%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Malaysian kuih and cafe plates",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2614,7 +2614,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=69-16%20Roosevelt%20Ave%2C%20Queens%2C%20NY%2011377%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Filipino comfort food",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2636,7 +2636,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=129%20MacDougal%20St%2C%20New%20York%2C%20NY%2010012",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Italian cafe and garden dining",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2653,12 +2653,12 @@ window.RESTAURANTS = [
     "id": 120,
     "name": "Le Grande Boucherie",
     "foodType": "French",
-    "price": null,
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Grande%20Boucherie%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Grand French brasserie",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2680,7 +2680,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=20%207th%20Ave%20S%2C%20New%20York%2C%20NY%2010014",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: West Village speakeasy cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2724,7 +2724,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=311%20Church%20St%2C%20New%20York%2C%20NY%2010013%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Macanese-Portuguese fusion",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2740,13 +2740,13 @@ window.RESTAURANTS = [
   {
     "id": 124,
     "name": "MACE",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cocktail bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MACE%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "Weak; Rating: 3.5",
+    "notes": "Weak; Rating: 3.5; ChatGPT: Cocktail bar known for spice- and ingredient-driven drinks. Approximate price 3/5; verify current menu, hours, and exact location before visiting.",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2768,7 +2768,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=149-24%2041st%20Ave%2C%20Queens%2C%20NY%2011355%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Korean BBQ in Flushing",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2806,13 +2806,13 @@ window.RESTAURANTS = [
   {
     "id": 127,
     "name": "Mister Paradise",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cocktail bar / bar food",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mister%20Paradise%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "Better on weekday nights, clubby on weekends; Rating: 4.5",
+    "notes": "Better on weekday nights, clubby on weekends; Rating: 4.5; ChatGPT: East Village cocktail bar with casual food. Approximate price 3/5; verify current menu, hours, and exact location before visiting.",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2834,7 +2834,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=180%20Orchard%20St%2015th%20floor%2C%20New%20York%2C%20NY%2010002",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Rooftop cocktails and skyline views",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2856,7 +2856,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=951%20Amsterdam%20Ave%2C%20New%20York%2C%20NY%2010025",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Casual cocktails and bar food",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2900,7 +2900,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=10%20W%2028th%20St%2C%20New%20York%2C%20NY%2010001",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Upscale cocktails and bar bites",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2922,7 +2922,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=56-06%20Cooper%20Ave%2C%20Queens%2C%20NY%2011385",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Outdoor drinks and dancing",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2938,13 +2938,13 @@ window.RESTAURANTS = [
   {
     "id": 133,
     "name": "NR",
-    "foodType": "Cocktail Bar",
+    "foodType": "Japanese cocktail bar / ramen",
     "price": 3,
     "location": "Upper East Side",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=339%20E%2075th%20St%2C%20New%20York%2C%20NY%2010021",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Ramen and Japanese cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2960,13 +2960,13 @@ window.RESTAURANTS = [
   {
     "id": 134,
     "name": "Oda House",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Georgian",
+    "price": 3,
     "location": "Upper East Side",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=406%20E%2073rd%20St%2C%20New%20York%2C%20NY%2010021",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Georgian khachapuri and dumplings",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -2988,7 +2988,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17%20Barrow%20St%2C%20New%20York%2C%20NY%2010014",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Romantic carriage-house dining",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3032,7 +3032,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=28%20Cornelia%20St%2C%20New%20York%2C%20NY%2010014",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Romantic Italian garden dining",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3076,7 +3076,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=653%2011th%20Ave%2016th%20Floor%2C%20New%20York%2C%20NY%2010036",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Rooftop cocktails and Hudson views",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3092,13 +3092,13 @@ window.RESTAURANTS = [
   {
     "id": 140,
     "name": "Queen",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Thai / Southeast Asian",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Queen%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Thai and Southeast Asian plates",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3136,13 +3136,13 @@ window.RESTAURANTS = [
   {
     "id": 142,
     "name": "Ravagh",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Persian / Iranian",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ravagh%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Persian kebabs and stews",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3158,13 +3158,13 @@ window.RESTAURANTS = [
   {
     "id": 143,
     "name": "Reception Bar",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean-inspired cocktail bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Reception%20Bar%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Korean-inspired cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3186,7 +3186,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=864%2010th%20Ave%2C%20New%20York%2C%20NY%2010019%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Neighborhood coffee shop",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3208,7 +3208,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=231%20E%209th%20St%2C%20New%20York%2C%20NY%2010003%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Sake and Japanese small plates",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3230,7 +3230,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=240%20E%209th%20St%2C%20New%20York%2C%20NY%2010003",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Underground sake bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3246,13 +3246,13 @@ window.RESTAURANTS = [
   {
     "id": 147,
     "name": "Sake Bar Satsko",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese sake bar",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sake%20Bar%20Satsko%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "Their food is terrible; Rating: 3.5",
+    "notes": "Their food is terrible; Rating: 3.5; ChatGPT: East Village sake bar; food note in original list says food was weak. Approximate price 2/5; verify current menu, hours, and exact location before visiting.",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3268,13 +3268,13 @@ window.RESTAURANTS = [
   {
     "id": 148,
     "name": "Samurai Mama",
-    "foodType": "Japanese",
+    "foodType": "Japanese udon / izakaya",
     "price": 2,
     "location": "Williamsburg",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=205%20Grand%20St%2C%20Brooklyn%2C%20NY%2011211%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Udon and izakaya plates",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3296,7 +3296,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=74%20E%207th%20St%2C%20New%20York%2C%20NY%2010003%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Matcha and Japanese tea",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3318,7 +3318,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=65%20W%2070th%20St%2C%20New%20York%2C%20NY%2010023",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Candlelit Moroccan lounge",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3340,7 +3340,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47%20E%2012th%20St%2C%20New%20York%2C%20NY%2010003",
     "category": "Fine dining",
     "recommendedBy": "Magikarp + Eva",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: High-end sushi omakase",
     "source": "Magikarp + Eva",
     "sources": [
       "Magikarp",
@@ -3363,7 +3363,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=310%205th%20Ave%2C%20Brooklyn%2C%20NY%2011215%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Neighborhood bakery",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3385,7 +3385,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=477%205th%20Ave%2C%20Brooklyn%2C%20NY%2011215",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Dive bar and pub snacks",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3401,13 +3401,13 @@ window.RESTAURANTS = [
   {
     "id": 154,
     "name": "Soju Haus",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean pub / soju bar",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soju%20Haus%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "Rating: 3.5",
+    "notes": "Rating: 3.5; ChatGPT: Koreatown soju bar/pub. Approximate price 2/5; verify current menu, hours, and exact location before visiting.",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3429,7 +3429,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=204%20E%2013th%20St%2C%20New%20York%2C%20NY%2010003%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Thai noodles and share plates",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3445,13 +3445,13 @@ window.RESTAURANTS = [
   {
     "id": 156,
     "name": "Split Eights",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cocktail bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Split%20Eights%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "Rating: 4",
+    "notes": "Rating: 4; ChatGPT: FiDi cocktail bar. Approximate price 3/5; verify current menu, hours, and exact location before visiting.",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3473,7 +3473,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=47%20W%2038th%20St%2C%20New%20York%2C%20NY%2010018",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Rooftop cocktails near Bryant Park",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3517,7 +3517,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=32%20E%2032nd%20St%2C%20Suite%201001%20Suite%201001%20at%20Hotel%203232%2C%20NY%2010016",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Korean late-night drinks",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3539,7 +3539,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=45%20John%20St%2C%20New%20York%2C%20NY%2010038%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: FiDi coffee and cafe fare",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3583,7 +3583,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=120%20Rivington%20St%2C%20New%20York%2C%20NY%2010002%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp + Eva",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Creative croissants and pastries",
     "source": "Magikarp + Eva",
     "sources": [
       "Magikarp",
@@ -3628,7 +3628,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=410%20Amsterdam%20Ave%2C%20New%20York%2C%20NY%2010024%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Upper West Side sushi",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3650,7 +3650,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1143%201st%20Ave%2C%20New%20York%2C%20NY%2010065%2C%20United%20States",
     "category": "Fine dining",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Sushi and omakase",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3688,13 +3688,13 @@ window.RESTAURANTS = [
   {
     "id": 167,
     "name": "Tanoshi",
-    "foodType": "Japanese",
-    "price": 3,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "Upper East Side",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=1372%20York%20Ave%2C%20New%20York%2C%20NY%2010021",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Casual omakase sushi",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3716,7 +3716,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=252%20Front%20St%2C%20New%20York%2C%20NY%2010038",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Hidden FiDi cocktail bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3738,7 +3738,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=425%20W%2015th%20St%2C%20New%20York%2C%20NY%2010011",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Chelsea Market cocktails",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3760,7 +3760,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=116%20MacDougal%20St%2C%20New%20York%2C%20NY%2010012%2C%20United%20States",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Polished cocktail den",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3776,13 +3776,13 @@ window.RESTAURANTS = [
   {
     "id": 171,
     "name": "Tominos",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Italian / pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tominos%20NYC",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Italian pizza and pasta",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3804,7 +3804,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=224%20Front%20St%2C%20New%20York%2C%20NY%2010038%2C%20United%20States",
     "category": "Dessert/drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Ice cream and vegan scoops",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3826,7 +3826,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=51%20Grove%20St%2C%20New%20York%2C%20NY%2010014%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp + Eva",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Rustic Italian, hard reservation",
     "source": "Magikarp + Eva",
     "sources": [
       "Magikarp",
@@ -3849,7 +3849,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=148%20West%204th%20Street%2C%20New%20York%2C%20NY%2010012",
     "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Belgian beer bar",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3865,13 +3865,13 @@ window.RESTAURANTS = [
   {
     "id": 175,
     "name": "Whiskey Tavern",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cocktail bar / bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whiskey%20Tavern%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Chinatown whiskey and bar food",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3887,13 +3887,13 @@ window.RESTAURANTS = [
   {
     "id": 176,
     "name": "Wildair",
-    "foodType": "American",
+    "foodType": "New American / wine bar",
     "price": 3,
     "location": "East Village",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=142%20Orchard%20St%2C%20New%20York%2C%20NY%2010002%2C%20United%20States",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Natural wine and small plates",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3915,7 +3915,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=241%20S%204th%20St%2C%20Brooklyn%2C%20NY%2011211%2C%20United%20States",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Mexican tasting menu",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3931,13 +3931,13 @@ window.RESTAURANTS = [
   {
     "id": 178,
     "name": "Yakiniku Futago",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese yakiniku / BBQ",
+    "price": 3,
     "location": "Flatiron / Union Square",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=37%20W%2017th%20St%2C%20New%20York%2C%20NY%2010011",
     "category": "Food",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Japanese yakiniku BBQ",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -3959,7 +3959,7 @@ window.RESTAURANTS = [
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=204%20E%2043rd%20St%2C%20New%20York%2C%20NY%2010017%2C%20United%20States",
     "category": "Fine dining",
     "recommendedBy": "Magikarp",
-    "notes": "From Notion list",
+    "notes": "ChatGPT: Serious sushi counter",
     "source": "Magikarp",
     "sources": [
       "Magikarp"
@@ -4306,13 +4306,13 @@ window.RESTAURANTS = [
   {
     "id": 195,
     "name": "Cagen",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese tasting menu / sushi",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cagen%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Japanese tasting menu",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4328,13 +4328,13 @@ window.RESTAURANTS = [
   {
     "id": 196,
     "name": "Levain Bakery - 74th Street",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / pastry",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Levain%20Bakery%20-%2074th%20Street%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Iconic oversized cookies",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4350,13 +4350,13 @@ window.RESTAURANTS = [
   {
     "id": 197,
     "name": "Levain Bakery - Amsterdam Avenue",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / pastry",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Levain%20Bakery%20-%20Amsterdam%20Avenue%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Iconic oversized cookies",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4372,13 +4372,13 @@ window.RESTAURANTS = [
   {
     "id": 198,
     "name": "Levain Bakery - Harlem",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / pastry",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Levain%20Bakery%20-%20Harlem%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Iconic oversized cookies",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4394,13 +4394,13 @@ window.RESTAURANTS = [
   {
     "id": 199,
     "name": "Mad. Sq. Eats",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Food market / pop-up market",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mad.%20Sq.%20Eats%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Seasonal outdoor food market",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4416,13 +4416,13 @@ window.RESTAURANTS = [
   {
     "id": 200,
     "name": "Dough Doughnuts",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dough%20Doughnuts%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Large brioche doughnuts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4438,13 +4438,13 @@ window.RESTAURANTS = [
   {
     "id": 201,
     "name": "Taiyaki NYC",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese dessert / taiyaki ice cream",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taiyaki%20NYC%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Fish-shaped cones and soft serve",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4460,13 +4460,13 @@ window.RESTAURANTS = [
   {
     "id": 202,
     "name": "Taiyaki NYC - Williamsburg",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese dessert / taiyaki ice cream",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taiyaki%20NYC%20-%20Williamsburg%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Fish-shaped cones and soft serve",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4482,13 +4482,13 @@ window.RESTAURANTS = [
   {
     "id": 203,
     "name": "OddFellows Ice Cream Co. DUMBO",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=OddFellows%20Ice%20Cream%20Co.%20DUMBO%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Creative ice cream flavors",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4504,13 +4504,13 @@ window.RESTAURANTS = [
   {
     "id": 204,
     "name": "OddFellows Ice Cream Co. The Parlor",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=OddFellows%20Ice%20Cream%20Co.%20The%20Parlor%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Creative ice cream flavors",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4526,13 +4526,13 @@ window.RESTAURANTS = [
   {
     "id": 205,
     "name": "Sweet Moment",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean dessert / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sweet%20Moment%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean shaved ice and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4548,13 +4548,13 @@ window.RESTAURANTS = [
   {
     "id": 206,
     "name": "Sweet Moments",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean dessert / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sweet%20Moments%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean shaved ice and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4570,13 +4570,13 @@ window.RESTAURANTS = [
   {
     "id": 207,
     "name": "Cote",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean steakhouse / Korean BBQ",
+    "price": 5,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cote%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean steakhouse",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4592,13 +4592,13 @@ window.RESTAURANTS = [
   {
     "id": 208,
     "name": "Bonsai Kakigori",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese shaved ice / kakigori",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonsai%20Kakigori%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Japanese shaved ice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4614,13 +4614,13 @@ window.RESTAURANTS = [
   {
     "id": 209,
     "name": "Sushi on Jones",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20on%20Jones%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Fast omakase counter",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4636,13 +4636,13 @@ window.RESTAURANTS = [
   {
     "id": 210,
     "name": "Tasty Hand-Pulled Noodles",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Noodles / ramen",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasty%20Hand-Pulled%20Noodles%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Hand-pulled noodles",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4658,13 +4658,13 @@ window.RESTAURANTS = [
   {
     "id": 211,
     "name": "Peter Luger Steak House",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea / tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Luger%20Steak%20House%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic Brooklyn steakhouse",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4680,13 +4680,13 @@ window.RESTAURANTS = [
   {
     "id": 212,
     "name": "Peter Luger's",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Steakhouse",
+    "price": 5,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Luger%27s%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic Brooklyn steakhouse",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4702,13 +4702,13 @@ window.RESTAURANTS = [
   {
     "id": 213,
     "name": "Sushi Dojo",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Dojo%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: East Village omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4724,13 +4724,13 @@ window.RESTAURANTS = [
   {
     "id": 214,
     "name": "Cha-An Teahouse",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea / tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cha-An%20Teahouse%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Japanese tea and sweets",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4746,13 +4746,13 @@ window.RESTAURANTS = [
   {
     "id": 215,
     "name": "Momofuku Noodle Bar",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Ramen / Asian noodles",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Momofuku%20Noodle%20Bar%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Ramen and pork buns",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4768,13 +4768,13 @@ window.RESTAURANTS = [
   {
     "id": 216,
     "name": "Ippudo NY",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Ramen / Japanese",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ippudo%20NY%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Tonkotsu ramen",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4790,13 +4790,13 @@ window.RESTAURANTS = [
   {
     "id": 217,
     "name": "Nan Xiang Xiao Long Bao",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese Shanghainese / soup dumplings",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nan%20Xiang%20Xiao%20Long%20Bao%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Shanghainese soup dumplings",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4812,13 +4812,13 @@ window.RESTAURANTS = [
   {
     "id": 218,
     "name": "Corner 28",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese Cantonese / roast meats",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Corner%2028%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Roast duck and rice plates",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4834,13 +4834,13 @@ window.RESTAURANTS = [
   {
     "id": 219,
     "name": "Sushi on Jones II",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20on%20Jones%20II%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Fast omakase counter",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4856,13 +4856,13 @@ window.RESTAURANTS = [
   {
     "id": 220,
     "name": "Ichiran",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Ramen / Japanese",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ichiran%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Solo-booth tonkotsu ramen",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4878,13 +4878,13 @@ window.RESTAURANTS = [
   {
     "id": 221,
     "name": "Dominique Ansel Bakery",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / pastry",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dominique%20Ansel%20Bakery%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cronut and French pastries",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4900,13 +4900,13 @@ window.RESTAURANTS = [
   {
     "id": 222,
     "name": "Ladurée New York Soho",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "French bakery / macarons",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ladur%C3%A9e%20New%20York%20Soho%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Macarons and French tea",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4922,13 +4922,13 @@ window.RESTAURANTS = [
   {
     "id": 223,
     "name": "SakaMai",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese izakaya / sake bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=SakaMai%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Sake and Japanese plates",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4944,13 +4944,13 @@ window.RESTAURANTS = [
   {
     "id": 224,
     "name": "Nami Nori",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese hand rolls / sushi",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nami%20Nori%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Open-style temaki hand rolls",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4966,13 +4966,13 @@ window.RESTAURANTS = [
   {
     "id": 225,
     "name": "Yi Ji Shi Mo",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese Cantonese rice rolls",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yi%20Ji%20Shi%20Mo%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Fresh rice noodle rolls",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -4988,13 +4988,13 @@ window.RESTAURANTS = [
   {
     "id": 226,
     "name": "Koré Coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cafe / coffee",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kor%C3%A9%20Coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean-style cafe drinks",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5010,13 +5010,13 @@ window.RESTAURANTS = [
   {
     "id": 227,
     "name": "Friendship BBQ",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese BBQ skewers",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friendship%20BBQ%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Chinese BBQ skewers",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5032,13 +5032,13 @@ window.RESTAURANTS = [
   {
     "id": 228,
     "name": "Friendship",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese / Asian restaurant",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friendship%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Chinese BBQ and hot dishes",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5054,13 +5054,13 @@ window.RESTAURANTS = [
   {
     "id": 229,
     "name": "ITO",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 5,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ITO%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: High-end sushi omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5076,13 +5076,13 @@ window.RESTAURANTS = [
   {
     "id": 230,
     "name": "Rule of Thirds",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese / izakaya",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rule%20of%20Thirds%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Greenpoint Japanese izakaya",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5098,13 +5098,13 @@ window.RESTAURANTS = [
   {
     "id": 231,
     "name": "Prince Tea House",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Tea house / dessert",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Tea%20House%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Tea, cakes, and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5120,13 +5120,13 @@ window.RESTAURANTS = [
   {
     "id": 232,
     "name": "Prince Tea House Sunset Park",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Tea house / dessert",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Tea%20House%20Sunset%20Park%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Tea, cakes, and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5142,13 +5142,13 @@ window.RESTAURANTS = [
   {
     "id": 233,
     "name": "Prince Tea House Flushing",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Tea house / dessert",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Tea%20House%20Flushing%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Tea, cakes, and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5164,13 +5164,13 @@ window.RESTAURANTS = [
   {
     "id": 234,
     "name": "Prince Tea House East Village",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Tea house / dessert",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Tea%20House%20East%20Village%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Tea, cakes, and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5186,13 +5186,13 @@ window.RESTAURANTS = [
   {
     "id": 235,
     "name": "Sip & Co.",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cafe / coffee",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sip%20%26%20Co.%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Coffee and cafe drinks",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5208,13 +5208,13 @@ window.RESTAURANTS = [
   {
     "id": 236,
     "name": "Crown Shy",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "New American fine dining",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crown%20Shy%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Polished New American dining",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5230,13 +5230,13 @@ window.RESTAURANTS = [
   {
     "id": 237,
     "name": "Obaltan BBQ",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean BBQ",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Obaltan%20BBQ%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean BBQ",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5252,13 +5252,13 @@ window.RESTAURANTS = [
   {
     "id": 238,
     "name": "Lodi",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Italian cafe / restaurant",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lodi%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Italian cafe and aperitivo",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5274,13 +5274,13 @@ window.RESTAURANTS = [
   {
     "id": 239,
     "name": "Oiji",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean modern",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oiji%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Modern Korean dining",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5296,13 +5296,13 @@ window.RESTAURANTS = [
   {
     "id": 240,
     "name": "GAN-HOO BBQ",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean BBQ",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=GAN-HOO%20BBQ%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean BBQ",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5318,13 +5318,13 @@ window.RESTAURANTS = [
   {
     "id": 241,
     "name": "Joey Bats Café",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Portuguese cafe / pasteis de nata",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joey%20Bats%20Caf%C3%A9%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Portuguese egg tarts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5340,13 +5340,13 @@ window.RESTAURANTS = [
   {
     "id": 242,
     "name": "Kosaka",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kosaka%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Michelin-starred sushi omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5362,13 +5362,13 @@ window.RESTAURANTS = [
   {
     "id": 243,
     "name": "Maki Kosaka",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / maki / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maki%20Kosaka%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Sushi rolls and omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5384,13 +5384,13 @@ window.RESTAURANTS = [
   {
     "id": 244,
     "name": "Ume",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese / sushi",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ume%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Williamsburg sushi",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5406,13 +5406,13 @@ window.RESTAURANTS = [
   {
     "id": 245,
     "name": "Tsurutontan Union Square",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese udon",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tsurutontan%20Union%20Square%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Big bowls of udon",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5428,13 +5428,13 @@ window.RESTAURANTS = [
   {
     "id": 246,
     "name": "Sushi Lab Rooftop",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Lab%20Rooftop%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Rooftop omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5450,13 +5450,13 @@ window.RESTAURANTS = [
   {
     "id": 247,
     "name": "Tuome",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "New American / Asian-influenced",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuome%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: New American with Asian touches",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5472,13 +5472,13 @@ window.RESTAURANTS = [
   {
     "id": 248,
     "name": "Xing Fu Tang",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea / brown sugar boba",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Xing%20Fu%20Tang%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Brown sugar boba",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5494,13 +5494,13 @@ window.RESTAURANTS = [
   {
     "id": 249,
     "name": "DOMODOMO New York",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese hand rolls / sushi",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=DOMODOMO%20New%20York%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Hand rolls and sushi",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5516,13 +5516,13 @@ window.RESTAURANTS = [
   {
     "id": 250,
     "name": "DOMODOMO Jersey City",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese hand rolls / sushi",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=DOMODOMO%20Jersey%20City%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Hand rolls and sushi",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5538,13 +5538,13 @@ window.RESTAURANTS = [
   {
     "id": 251,
     "name": "Yoon Haeundae Galbi",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yoon%20Haeundae%20Galbi%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean galbi and BBQ",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5560,13 +5560,13 @@ window.RESTAURANTS = [
   {
     "id": 252,
     "name": "Joe's Steam Rice Roll",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea / tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%27s%20Steam%20Rice%20Roll%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cantonese rice rolls",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5582,13 +5582,13 @@ window.RESTAURANTS = [
   {
     "id": 253,
     "name": "Alimama Tea",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Tea / Asian dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alimama%20Tea%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cream puffs and tea drinks",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5604,13 +5604,13 @@ window.RESTAURANTS = [
   {
     "id": 254,
     "name": "Great NY Noodletown",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese Cantonese / noodles",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Great%20NY%20Noodletown%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cantonese noodles and roast meats",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5626,13 +5626,13 @@ window.RESTAURANTS = [
   {
     "id": 255,
     "name": "Hatsuhana",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / Japanese",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hatsuhana%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Midtown sushi",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5648,13 +5648,13 @@ window.RESTAURANTS = [
   {
     "id": 256,
     "name": "The Stackery",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Dessert / waffles",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Stackery%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Dessert waffles",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5670,13 +5670,13 @@ window.RESTAURANTS = [
   {
     "id": 257,
     "name": "Sushi Yasuda",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 5,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Yasuda%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Serious Midtown sushi",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5692,13 +5692,13 @@ window.RESTAURANTS = [
   {
     "id": 258,
     "name": "Bibble & Sip",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bibble%20%26%20Sip%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cream puffs and cute pastries",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5714,13 +5714,13 @@ window.RESTAURANTS = [
   {
     "id": 259,
     "name": "Mokbar",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean ramen / Korean",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mokbar%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean ramen",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5736,13 +5736,13 @@ window.RESTAURANTS = [
   {
     "id": 260,
     "name": "Machi Machi",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Machi%20Machi%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cheese tea and boba",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5758,13 +5758,13 @@ window.RESTAURANTS = [
   {
     "id": 261,
     "name": "Machi Machi Flushing",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Machi%20Machi%20Flushing%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cheese tea and boba",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5780,13 +5780,13 @@ window.RESTAURANTS = [
   {
     "id": 262,
     "name": "The Alley",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Alley%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Brown sugar boba",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5802,13 +5802,13 @@ window.RESTAURANTS = [
   {
     "id": 263,
     "name": "Bakeri",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bakeri%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Scandinavian-style bakery",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5824,13 +5824,13 @@ window.RESTAURANTS = [
   {
     "id": 264,
     "name": "Omakase room by Maaser",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 5,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Omakase%20room%20by%20Maaser%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Sushi omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5846,13 +5846,13 @@ window.RESTAURANTS = [
   {
     "id": 265,
     "name": "Katsu-Hama",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese katsu",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Katsu-Hama%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Japanese pork katsu",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5868,13 +5868,13 @@ window.RESTAURANTS = [
   {
     "id": 266,
     "name": "MONO+MONO",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean fried chicken / pub",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MONO%2BMONO%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean fried chicken and beer",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5890,13 +5890,13 @@ window.RESTAURANTS = [
   {
     "id": 267,
     "name": "New York Aquarium",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Attraction / aquarium",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20York%20Aquarium%20NYC",
-    "category": "Food",
+    "category": "Activity",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Coney Island aquarium stop",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5912,13 +5912,13 @@ window.RESTAURANTS = [
   {
     "id": 268,
     "name": "Café Kitsuné Boerum Hill",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cafe / coffee",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Kitsun%C3%A9%20Boerum%20Hill%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: French-Japanese coffee shop",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5934,13 +5934,13 @@ window.RESTAURANTS = [
   {
     "id": 269,
     "name": "Café Kitsuné West Village",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cafe / coffee",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Kitsun%C3%A9%20West%20Village%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: French-Japanese coffee shop",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5956,13 +5956,13 @@ window.RESTAURANTS = [
   {
     "id": 270,
     "name": "Russ & Daughters",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Jewish deli / appetizing",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Russ%20%26%20Daughters%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Bagels, lox, and appetizing",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -5978,13 +5978,13 @@ window.RESTAURANTS = [
   {
     "id": 271,
     "name": "Basement",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Nightclub / music venue",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Basement%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Industrial techno nightclub",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6000,13 +6000,13 @@ window.RESTAURANTS = [
   {
     "id": 272,
     "name": "Spicy Village",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese Henan / noodles",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spicy%20Village%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Big tray chicken and noodles",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6022,13 +6022,13 @@ window.RESTAURANTS = [
   {
     "id": 273,
     "name": "The Little One",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese dessert / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Little%20One%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Japanese desserts and kakigori",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6044,13 +6044,13 @@ window.RESTAURANTS = [
   {
     "id": 274,
     "name": "Bonnie's",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cantonese-American",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonnie%27s%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cantonese-American hits",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6066,13 +6066,13 @@ window.RESTAURANTS = [
   {
     "id": 275,
     "name": "886",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Taiwanese",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=886%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Taiwanese late-night plates",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6088,13 +6088,13 @@ window.RESTAURANTS = [
   {
     "id": 276,
     "name": "Nice Day Chinese Takeout",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese takeout",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nice%20Day%20Chinese%20Takeout%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Retro Chinese-American takeout",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6110,13 +6110,13 @@ window.RESTAURANTS = [
   {
     "id": 277,
     "name": "Junzi Kitchen",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese noodles / bowls",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Junzi%20Kitchen%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Northern Chinese noodles and bowls",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6132,13 +6132,13 @@ window.RESTAURANTS = [
   {
     "id": 278,
     "name": "Junzi Kitchen - Bryant Park",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese noodles / bowls",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Junzi%20Kitchen%20-%20Bryant%20Park%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Northern Chinese noodles and bowls",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6154,13 +6154,13 @@ window.RESTAURANTS = [
   {
     "id": 279,
     "name": "Junzi Kitchen - Morningside Heights",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese noodles / bowls",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Junzi%20Kitchen%20-%20Morningside%20Heights%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Northern Chinese noodles and bowls",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6176,13 +6176,13 @@ window.RESTAURANTS = [
   {
     "id": 280,
     "name": "Ho Foods",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Taiwanese beef noodle soup",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Foods%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Taiwanese beef noodle soup",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6198,13 +6198,13 @@ window.RESTAURANTS = [
   {
     "id": 281,
     "name": "Jell and Chill",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Dessert / jelly desserts",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jell%20and%20Chill%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Jelly desserts and soft serve",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6220,13 +6220,13 @@ window.RESTAURANTS = [
   {
     "id": 282,
     "name": "Sey Coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Specialty coffee",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sey%20Coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Brooklyn specialty coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6242,13 +6242,13 @@ window.RESTAURANTS = [
   {
     "id": 283,
     "name": "The Modern",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "New American fine dining",
+    "price": 5,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Modern%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: MoMA fine dining",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6264,13 +6264,13 @@ window.RESTAURANTS = [
   {
     "id": 284,
     "name": "Stuffed Ice Cream",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Ice cream / dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stuffed%20Ice%20Cream%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Ice cream stuffed doughnuts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6286,13 +6286,13 @@ window.RESTAURANTS = [
   {
     "id": 285,
     "name": "Fuku",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Fried chicken sandwiches",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fuku%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Spicy fried chicken sandwiches",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6308,13 +6308,13 @@ window.RESTAURANTS = [
   {
     "id": 286,
     "name": "Doughnut Plant",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Donuts / bakery",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Doughnut%20Plant%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Creative NYC doughnuts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6330,13 +6330,13 @@ window.RESTAURANTS = [
   {
     "id": 287,
     "name": "Tsurutontan Sushi & Udon - Midtown",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese udon / sushi",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tsurutontan%20Sushi%20%26%20Udon%20-%20Midtown%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Udon and sushi",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6352,13 +6352,13 @@ window.RESTAURANTS = [
   {
     "id": 288,
     "name": "Prince Street Pizza",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20Street%20Pizza%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Spicy pepperoni square slice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6374,13 +6374,13 @@ window.RESTAURANTS = [
   {
     "id": 289,
     "name": "Tiger Sugar",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiger%20Sugar%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Brown sugar boba",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6396,13 +6396,13 @@ window.RESTAURANTS = [
   {
     "id": 290,
     "name": "Gooey on The Inside Cookies",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cookies / dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gooey%20on%20The%20Inside%20Cookies%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Gooey stuffed cookies",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6418,13 +6418,13 @@ window.RESTAURANTS = [
   {
     "id": 291,
     "name": "Xi'an Famous Foods 西安名吃",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Xi%27an%20Famous%20Foods%20%E8%A5%BF%E5%AE%89%E5%90%8D%E5%90%83%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Spicy cumin lamb noodles",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6440,13 +6440,13 @@ window.RESTAURANTS = [
   {
     "id": 292,
     "name": "Wenwen",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Taiwanese",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wenwen%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Taiwanese small plates",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6462,13 +6462,13 @@ window.RESTAURANTS = [
   {
     "id": 293,
     "name": "Piccola Cucina Uptown",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Italian / Sicilian",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piccola%20Cucina%20Uptown%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Sicilian pasta",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6484,13 +6484,13 @@ window.RESTAURANTS = [
   {
     "id": 294,
     "name": "99 Favor Taste",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Chinese hot pot / Korean BBQ",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=99%20Favor%20Taste%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Hot pot and Korean BBQ",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6506,13 +6506,13 @@ window.RESTAURANTS = [
   {
     "id": 295,
     "name": "Best Bagel & Coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bagels / coffee",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Best%20Bagel%20%26%20Coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Midtown bagels",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6528,13 +6528,13 @@ window.RESTAURANTS = [
   {
     "id": 296,
     "name": "Empanada Mama Hell’s Kitchen",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Empanadas / Latin American",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Empanada%20Mama%20Hell%E2%80%99s%20Kitchen%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Late-night empanadas",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6550,13 +6550,13 @@ window.RESTAURANTS = [
   {
     "id": 297,
     "name": "NY Pizza Suprema",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NY%20Pizza%20Suprema%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic Penn Station slice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6572,13 +6572,13 @@ window.RESTAURANTS = [
   {
     "id": 298,
     "name": "5 Napkin Burger",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Burger",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=5%20Napkin%20Burger%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Big burgers and fries",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6594,13 +6594,13 @@ window.RESTAURANTS = [
   {
     "id": 299,
     "name": "Scarr's Pizza",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scarr%27s%20Pizza%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Lower East Side pizza",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6616,13 +6616,13 @@ window.RESTAURANTS = [
   {
     "id": 300,
     "name": "Joe's Pizza Broadway",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%27s%20Pizza%20Broadway%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic New York slice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6638,13 +6638,13 @@ window.RESTAURANTS = [
   {
     "id": 301,
     "name": "Joe's Pizza",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%27s%20Pizza%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic New York slice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6660,13 +6660,13 @@ window.RESTAURANTS = [
   {
     "id": 302,
     "name": "Joe's Pizza on 8th Ave",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%27s%20Pizza%20on%208th%20Ave%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic New York slice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6682,13 +6682,13 @@ window.RESTAURANTS = [
   {
     "id": 303,
     "name": "Joe's Pizza of Park Slope",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%27s%20Pizza%20of%20Park%20Slope%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic New York slice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6704,13 +6704,13 @@ window.RESTAURANTS = [
   {
     "id": 304,
     "name": "Di Fara Pizza",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Pizza",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Di%20Fara%20Pizza%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Legendary Brooklyn pizza",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6726,13 +6726,13 @@ window.RESTAURANTS = [
   {
     "id": 305,
     "name": "Brooklyn Bagel & Coffee Company",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bagels / coffee",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Bagel%20%26%20Coffee%20Company%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Bagels and spreads",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6748,13 +6748,13 @@ window.RESTAURANTS = [
   {
     "id": 306,
     "name": "Original Brooklyn Bagel",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bagels / coffee",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Original%20Brooklyn%20Bagel%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Bagels and coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6770,13 +6770,13 @@ window.RESTAURANTS = [
   {
     "id": 307,
     "name": "Tiger Sugar Brooklyn",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bubble tea",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiger%20Sugar%20Brooklyn%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Brown sugar boba",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6792,13 +6792,13 @@ window.RESTAURANTS = [
   {
     "id": 308,
     "name": "Evil Katsu",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese katsu sandwiches",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Evil%20Katsu%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Katsu sandwiches",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6814,13 +6814,13 @@ window.RESTAURANTS = [
   {
     "id": 309,
     "name": "Sushi by M",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / omakase",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20by%20M%20NYC",
-    "category": "Food",
+    "category": "Fine dining",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Approachable omakase",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6836,13 +6836,13 @@ window.RESTAURANTS = [
   {
     "id": 310,
     "name": "Grace Street Coffee & Desserts",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean dessert / cafe",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grace%20Street%20Coffee%20%26%20Desserts%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean desserts and shaved ice",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6858,13 +6858,13 @@ window.RESTAURANTS = [
   {
     "id": 311,
     "name": "Ess-a-Bagel",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bagels",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ess-a-Bagel%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic NYC bagels",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6880,13 +6880,13 @@ window.RESTAURANTS = [
   {
     "id": 312,
     "name": "TeaMakers",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Tea / cafe",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=TeaMakers%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Tea and cafe drinks",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6902,13 +6902,13 @@ window.RESTAURANTS = [
   {
     "id": 313,
     "name": "Lafayette Grand Café & Bakery",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Bakery / pastry",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lafayette%20Grand%20Caf%C3%A9%20%26%20Bakery%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: French bakery and brunch",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6924,13 +6924,13 @@ window.RESTAURANTS = [
   {
     "id": 314,
     "name": "Decoy",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Peking duck / Chinese",
+    "price": 4,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Decoy%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Peking duck and cocktails",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6946,13 +6946,13 @@ window.RESTAURANTS = [
   {
     "id": 315,
     "name": "Signal162",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cocktail bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Signal162%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cocktail bar",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6968,13 +6968,13 @@ window.RESTAURANTS = [
   {
     "id": 316,
     "name": "Delimanjoo",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean pastries / dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Delimanjoo%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean custard pastries",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -6990,13 +6990,13 @@ window.RESTAURANTS = [
   {
     "id": 317,
     "name": "Tin Building by Jean-Georges",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Food hall / market",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tin%20Building%20by%20Jean-Georges%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Seaport food hall",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7012,13 +7012,13 @@ window.RESTAURANTS = [
   {
     "id": 318,
     "name": "Jongro Rice Hotdog",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean corn dogs",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongro%20Rice%20Hotdog%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean corn dogs",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7034,13 +7034,13 @@ window.RESTAURANTS = [
   {
     "id": 319,
     "name": "Sushi 456",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / Japanese",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20456%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Sushi and Japanese plates",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7056,13 +7056,13 @@ window.RESTAURANTS = [
   {
     "id": 320,
     "name": "Kong Sihk Tong",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Hong Kong cafe / cha chaan teng",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kong%20Sihk%20Tong%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Hong Kong cafe classics",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7078,13 +7078,13 @@ window.RESTAURANTS = [
   {
     "id": 321,
     "name": "MOGMOG",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Japanese grocery / prepared foods",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MOGMOG%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Japanese market and prepared foods",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7100,13 +7100,13 @@ window.RESTAURANTS = [
   {
     "id": 322,
     "name": "% ARABICA NEW YORK DUMBO ROASTERY",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Specialty coffee",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%25%20ARABICA%20NEW%20YORK%20DUMBO%20ROASTERY%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Minimalist specialty coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7122,13 +7122,13 @@ window.RESTAURANTS = [
   {
     "id": 323,
     "name": "Ralph's Coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cafe / coffee",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ralph%27s%20Coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Classic coffee and pastries",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7144,13 +7144,13 @@ window.RESTAURANTS = [
   {
     "id": 324,
     "name": "Sogno Toscano",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Italian cafe / wine bar",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sogno%20Toscano%20NYC",
-    "category": "Food",
+    "category": "Drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Italian wine bar and market",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7166,13 +7166,13 @@ window.RESTAURANTS = [
   {
     "id": 325,
     "name": "about time coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Coffee / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=about%20time%20coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Specialty coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7188,13 +7188,13 @@ window.RESTAURANTS = [
   {
     "id": 326,
     "name": "Felix Roasting Co.",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Coffee / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Felix%20Roasting%20Co.%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Stylish specialty coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7210,13 +7210,13 @@ window.RESTAURANTS = [
   {
     "id": 327,
     "name": "Little Cupcake Bakeshop",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Cupcakes / bakery",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Cupcake%20Bakeshop%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Cupcakes and layer cakes",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7232,13 +7232,13 @@ window.RESTAURANTS = [
   {
     "id": 328,
     "name": "Poetica Coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Coffee / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Poetica%20Coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Neighborhood specialty coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7254,13 +7254,13 @@ window.RESTAURANTS = [
   {
     "id": 329,
     "name": "Sant Ambroeus",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Italian cafe / restaurant",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sant%20Ambroeus%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Milanese cafe and pastries",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7276,13 +7276,13 @@ window.RESTAURANTS = [
   {
     "id": 330,
     "name": "Gouie",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Sushi / Japanese",
+    "price": 3,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gouie%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Sushi and Japanese small plates",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7298,13 +7298,13 @@ window.RESTAURANTS = [
   {
     "id": 331,
     "name": "Mango Mango Dessert",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Hong Kong dessert",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mango%20Mango%20Dessert%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Mango desserts and Hong Kong sweets",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7320,13 +7320,13 @@ window.RESTAURANTS = [
   {
     "id": 332,
     "name": "Urban Hawker",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Singaporean food hall",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Urban%20Hawker%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Singaporean food hall",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7342,13 +7342,13 @@ window.RESTAURANTS = [
   {
     "id": 333,
     "name": "CHUNKY BOSS",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Taiwanese fried chicken / snacks",
+    "price": 1,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CHUNKY%20BOSS%20NYC",
     "category": "Food",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Taiwanese fried chicken",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7364,13 +7364,13 @@ window.RESTAURANTS = [
   {
     "id": 334,
     "name": "Cafe Joah",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean cafe / dessert",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Joah%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean cafe and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7386,13 +7386,13 @@ window.RESTAURANTS = [
   {
     "id": 335,
     "name": "Ten Thousand Coffee",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Coffee / cafe",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ten%20Thousand%20Coffee%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Australian-style specialty coffee",
     "source": "Eva",
     "sources": [
       "Eva"
@@ -7408,13 +7408,13 @@ window.RESTAURANTS = [
   {
     "id": 336,
     "name": "Gong Gan",
-    "foodType": "Unspecified",
-    "price": null,
+    "foodType": "Korean cafe / dessert",
+    "price": 2,
     "location": "NYC",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gong%20Gan%20NYC",
-    "category": "Food",
+    "category": "Dessert/drinks",
     "recommendedBy": "Eva",
-    "notes": "Imported from Eva's KMZ",
+    "notes": "ChatGPT: Korean cafe and desserts",
     "source": "Eva",
     "sources": [
       "Eva"
